@@ -1,0 +1,50 @@
+Plaintext
+# ==========================================
+# Entornos Virtuales
+# ==========================================
+venv/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Caché y compilados de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Configuraciones de Entorno y Variables
+# ==========================================
+.env
+.env.local
+.env.*.local
+
+# ==========================================
+# Configuraciones del Editor (IDEs)
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# Archivos del Sistema Operativo
+# ==========================================
+# Linux
+.directory
+*~
+# macOS y Windows (por si alguien más clona tu repo)
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Logs y Empaquetado
+# ==========================================
+*.log
+build/
+dist/
+*.spec
