@@ -76,7 +76,7 @@ Juego clasico de pong de 1 jugador vs la IA creada como tarea del curso
 
 #### Instrucciones para jugarlo
 
-Se utiliza flecha arriba y abajo para mover la tabla y ganas cuando la pelota toque la pared izquierda atras del jugador contrario controlado por la IA
+Se utiliza las teclas **W** y **S** para mover la tabla hacia arriba y abajo respectivamente y ganas cuando la pelota toque la pared izquierda atras del jugador contrario controlado por la IA
 
 ### 2. Flappy bird
 
@@ -85,6 +85,14 @@ juego clasico de flappy bird con modificaciones para elegir la dificultad, power
 #### Instrucciones para jugarlo
 
 En el modo normal se utiliza espacio para saltar y se juega como el clasico flappy bird, mientras que en el modo dificil se utiliza el espacio y flechas izquierda y derecha para moverte, tambien en el modo dificil viene incluido un powerup que te hace invencible durante 6 segundos y un sistema de cambio de apertura de los troncos generados. En ambos modos se utiliza el tab(tabulador) para pausar el juego que en el momento de quitarlo empieza de inmediato.
+
+### 3. Breackout
+
+juego clasico de breackout con modificaciones para los powerup que te pueden salir
+
+#### Instrucciones para jugarlo
+
+El juego consiste en obtener la mayor cantidad de puntos al pasar los niveles, se utiliza las flechas izquierda y derecha para mover la paleta, el espacio para activar el modificador de captureballs que te permite pegar una o varias pelotas a la paleta por 5 segundos y lanzarlas, la **M** para el powerup de rocketup que genera 2 pelotas y las lanza hacia el frente y por ultimo un powerup personalizado que le quita uno de vida a todos los ladrillos de la partida, este ultimo aparece menos que los demas y te permite avanzar mas rapido por los niveles, pero no te suma puntaje ni tampoco te da alguna otra ventaja aparte de ya dicha.
 
 
  
