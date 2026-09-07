@@ -94,5 +94,12 @@ juego clasico de breackout con modificaciones para los powerup que te pueden sal
 
 El juego consiste en obtener la mayor cantidad de puntos al pasar los niveles, se utiliza las flechas izquierda y derecha para mover la paleta, el espacio para activar el modificador de captureballs que te permite pegar una o varias pelotas a la paleta por 5 segundos y lanzarlas, la **M** para el powerup de rocketup que genera 2 pelotas y las lanza hacia el frente y por ultimo un powerup personalizado que le quita uno de vida a todos los ladrillos de la partida, este ultimo aparece menos que los demas y te permite avanzar mas rapido por los niveles, pero no te suma puntaje ni tampoco te da alguna otra ventaja aparte de ya dicha.
 
+### 4. match3
+
+juego con tematica de candy-crush pero con powerups y mas colores
+
+#### Intrucciones para jugarlo
+
+Al igual que candy-crush se desea pasar de niveles, solo que aqui se hace al alcanzar un minimo de puntos, se tienen 2 powerups que se activan al darle clic o hacer match, para cuando se hace un match de 4 que destruye todas las casillas horizontal y verticalmente al activarse y al hacer un match de 5 se crea un powerup que destruye todas las piezas del mismo color
 
  
