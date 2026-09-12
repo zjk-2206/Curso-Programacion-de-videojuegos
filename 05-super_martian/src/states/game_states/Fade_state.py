@@ -10,16 +10,13 @@ class FadeOutState(BaseState):
         self.next_level = enter_params.get("level")
         
         pygame.mixer.music.stop()
-        
-        # Referencias visuales necesarias del PlayState para mantener la escena visible
+
         self.game_level = enter_params.get("game_level")
         self.player = enter_params.get("player")
         self.camera = enter_params.get("camera")
-        
-        # Configuración del tiempo y opacidad (alpha de 0 a 255
+
         self.alpha = 255
         
-        # Superficie para dibujar el rectángulo negro de desvanecimiento
         self.fade_surface = pygame.Surface((settings.VIRTUAL_WIDTH, settings.VIRTUAL_HEIGHT), pygame.SRCALPHA).convert_alpha()
         
         Timer.tween(
@@ -47,5 +44,4 @@ class FadeOutState(BaseState):
         surface.blit(self.fade_surface, (0, 0))
 
     def on_input(self, input_id: str, input_data: Any) -> None:
-        # Bloquear la entrada del usuario durante la transición de salida
         pass
