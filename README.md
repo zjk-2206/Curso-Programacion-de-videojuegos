@@ -102,4 +102,10 @@ juego con tematica de candy-crush pero con powerups y mas colores
 
 Al igual que candy-crush se desea pasar de niveles, solo que aqui se hace al alcanzar un minimo de puntos, se tienen 2 powerups que se activan al darle clic o hacer match, para cuando se hace un match de 4 que destruye todas las casillas horizontal y verticalmente al activarse y al hacer un match de 5 se crea un powerup que destruye todas las piezas del mismo color
 
- 
+### 5. super Martian
+
+Hace falta explicarlo?
+
+####Instruccionespara jugarlo
+
+Se busca que el jugador cumpla un goal de puntos obteniendo monedas para obtener la llave y pasar de nivel evitando a los enemigos y haciendo saltos imposibles
