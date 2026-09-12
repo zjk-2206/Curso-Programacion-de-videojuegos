@@ -175,9 +175,5 @@ class PlayState(BaseState):
                 player=self.player,
                 clock=self.clock,
             )
-            #DEBUG
-        elif input_id == "enter" and input_data.pressed:
-            settings.SOUNDS["complete"].play()
-            self.state_machine.change("fade_out", level=self.level + 1, game_level=self.game_level, camera=self.camera, player=self.player)
         else:
             self.player.on_input(input_id, input_data)
