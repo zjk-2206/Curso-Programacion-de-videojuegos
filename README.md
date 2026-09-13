@@ -106,6 +106,14 @@ Al igual que candy-crush se desea pasar de niveles, solo que aqui se hace al alc
 
 Hace falta explicarlo?
 
-####Instruccionespara jugarlo
+####Instrucciones para jugarlo
 
 Se busca que el jugador cumpla un goal de puntos obteniendo monedas para obtener la llave y pasar de nivel evitando a los enemigos y haciendo saltos imposibles
+
+### 8. Throw a bird
+
+Mecanicas parecidas a angry birds
+
+#### Instrucciones para jugarlo
+
+se busca eliminar al enemigo puesto en la plataforma al arrastrar, lanzar y dividir al pajaro con la barra espaciadora
